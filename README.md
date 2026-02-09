@@ -33,9 +33,9 @@ Letewa is a last-mile delivery platform designed for the Kenyan market, focusing
 - `js/`: JavaScript files for each page
 
 ## Supabase Configuration
-- **Project URL**: `https://nxjmoaqdxpqmnhvsujpc.supabase.co`
-- **Publishable Key**: `sb_publishable_hYs8jERofor5W6aabEwdFg_iUbUSqfs`
-- **Anon Key**: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im54am1vYXFkeHBxbW5odnN1anBjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyMjE2MTYsImV4cCI6MjA4NTg5NzYxNn0.YourPublishingKey`
+- **Project URL**: `provide this keys  `
+- **Publishable Key**: `provode this keys`
+- **Anon Key**: `provode this keys`
 
 ## Next Steps
 - Implement M-Pesa payment integration
