@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letewa Dashboard</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Letewa Dashboard</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Orders</a>
+            <a href="#">Profile</a>
+        </nav>
+    </header>
+    <main>
+        <section id="order-section">
+            <h2>Place an Order</h2>
+            <form id="order-form">
+                <input type="text" placeholder="Pickup Location" required>
+                <input type="text" placeholder="Delivery Location" required>
+                <textarea placeholder="Shopping List (e.g., 2kg Sugar, 1L Milk)" required></textarea>
+                <button type="submit">Submit Order</button>
+            </form>
+        </section>
+        <section id="tracking-section">
+            <h2>Live Tracking</h2>
+            <div id="map"></div>
+            <div id="status-updates"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Letewa. All rights reserved.</p>
+    </footer>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
