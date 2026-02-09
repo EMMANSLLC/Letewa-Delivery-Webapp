@@ -61,9 +61,13 @@ To run the Letewa website locally:
 - `js/`: JavaScript files for each page
 
 ## Supabase Configuration
-- **Project URL**: `https://nxjmoaqdxpqmnhvsujpc.supabase.co`
-- **Publishable Key**: `sb_publishable_hYs8jERofor5W6aabEwdFg_iUbUSqfs`
-- **Anon Key**: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im54am1vYXFkeHBxbW5odnN1anBjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyMjE2MTYsImV4cCI6MjA4NTg5NzYxNn0.YourPublishingKey`
+To configure Supabase for this project, you need to provide your own Supabase project URL and keys. Replace the placeholder values below with your actual Supabase credentials:
+
+- **Project URL**: `YOUR_SUPABASE_PROJECT_URL`
+- **Publishable Key**: `YOUR_SUPABASE_PUBLISHABLE_KEY`
+- **Anon Key**: `YOUR_SUPABASE_ANON_KEY`
+
+**Note**: Ensure you create a Supabase project and obtain these keys from your Supabase dashboard.
 
 ## Next Steps
 - Implement M-Pesa payment integration
